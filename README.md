@@ -8,7 +8,8 @@ If you bought your DHT22 from **AliExpress, eBay, or similar marketplaces**
 and get readings like **-3276.7°C** in freezing weather — you likely have 
 a clone sensor. This library fixes that.
 
-![photo_2026-02-06_16-25-30](https://github.com/user-attachments/assets/fdb20564-f711-4995-9791-1a3b7dd1e745)
+![ModuleDHT22](https://github.com/user-attachments/assets/4d5a24fa-a26c-43e7-865a-bec4b7b953e4)
+
 
 
 ### How original vs clone encoding works
