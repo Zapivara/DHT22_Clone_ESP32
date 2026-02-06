@@ -2,9 +2,11 @@
 
 **Arduino library for ESP32 that correctly reads negative temperatures from clone/counterfeit DHT22 sensors.**
 
-## The Problem
+## Who needs this library?
 
-Many cheap DHT22 sensors sold online are clones that encode negative temperatures differently from the original Aosong DHT22/AM2302. This causes popular libraries to return garbage values like **-3276.7°C** or **0.0°C** when the actual temperature is below zero.
+If you bought your DHT22 from **AliExpress, eBay, or similar marketplaces** 
+and get readings like **-3276.7°C** in freezing weather — you likely have 
+a clone sensor. This library fixes that.
 
 ### How original vs clone encoding works
 
