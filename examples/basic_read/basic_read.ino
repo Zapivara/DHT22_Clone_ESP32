@@ -12,7 +12,7 @@
  *   Optional: 4.7kΩ pull-up resistor between DATA and 3.3V
  */
 
-#include <DHT22_Clone.h>
+#include <DHT22_Clone_ESP32.h>
 
 #define DHT_PIN 14
 
