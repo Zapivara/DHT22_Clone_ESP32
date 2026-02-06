@@ -49,7 +49,7 @@ This library includes raw byte output so you can check.
 
 ```ini
 lib_deps = 
-    https://github.com/YOUR_USERNAME/DHT22_Clone_ESP32.git
+    https://github.com/IlliaZenitsu/DHT22_Clone_ESP32.git
 ```
 
 ## Wiring
