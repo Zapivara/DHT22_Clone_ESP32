@@ -8,7 +8,13 @@ If you bought your DHT22 from **AliExpress, eBay, or similar marketplaces**
 and get readings like **-3276.7°C** in freezing weather — you likely have 
 a clone sensor. This library fixes that.
 
+This library works with DHT22 / AM2302 modules like these:
+
 ![ModuleDHT22](https://github.com/user-attachments/assets/4d5a24fa-a26c-43e7-865a-bec4b7b953e4)
+
+
+> ⚠️ Most DHT22 sensors sold on AliExpress, eBay, and similar marketplaces are clones
+> that look identical to the original but use different negative temperature encoding.
 
 
 
