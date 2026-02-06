@@ -4,7 +4,7 @@
  * License: MIT
  */
 
-#include "DHT22_Clone.h"
+#include "DHT22_Clone_ESP32.h"
 
 #if CONFIG_IDF_TARGET_ESP32 || CONFIG_IDF_TARGET_ESP32S2
 #define RMT_MAX_BLOCKS 64
